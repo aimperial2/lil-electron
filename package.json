@@ -1,0 +1,24 @@
+{
+  "name": "lil-electron-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aimperial2/lil-electron.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aimperial2/lil-electron/issues"
+  },
+  "homepage": "https://github.com/aimperial2/lil-electron#readme",
+  "devDependencies": {
+    "electron": "^39.2.7"
+  }
+}
