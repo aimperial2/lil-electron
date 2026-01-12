@@ -26,3 +26,24 @@ select {
   -webkit-app-region: no-drag;
   cursor: pointer;
 }
+
+.title-bar {
+  display: flex;
+  justify-content: flex-end;
+  padding: 4px;
+}
+
+#closeBtn {
+  width: 32px;
+  height: 32px;
+  border: none;
+  background: transparent;
+  font-size: 20px;
+  color: #666;
+  border-radius: 4px;
+}
+
+#closeBtn:hover {
+  background: #e81123;
+  color: white;
+}
