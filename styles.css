@@ -7,6 +7,8 @@ body {
   margin: 0;
   width: 100vw;
   height: 100vh;
+  text-align: center;
+
 
   background: white;
   user-select: none;
